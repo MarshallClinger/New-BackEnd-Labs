@@ -15,10 +15,18 @@ public class Week03ArraysAndMethodsLab {
 		//
 		
 		// 1. Create an array with the following values 1, 5, 2, 8, 13, 6
-
+		int [] array = new int [6]; 
+		array[0] = 1;
+		array[1] = 5; 
+		array[2] = 2; 
+		array[3] = 8;
+		array[4] = 13;
+		array[5] = 6; 
+		
 		
 		// 2. Print out the first element in the array
-	
+		 System. out. println(array[0];
+		
 		
 		// 3. Print out the last element in the array without using the number 5
 		
